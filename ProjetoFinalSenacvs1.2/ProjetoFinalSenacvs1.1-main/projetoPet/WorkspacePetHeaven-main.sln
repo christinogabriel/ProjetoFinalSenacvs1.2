@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WorkspacePetHeaven-main", "WorkspacePetHeaven-main", "{26468A34-B6B1-4790-A525-E6317C434597}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workspace", "WorkspacePetHeaven-main\WorkspacePetHeaven\Workspace.csproj", "{0471F0EC-3DEC-4CFA-B624-60AA3F66EC1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0471F0EC-3DEC-4CFA-B624-60AA3F66EC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0471F0EC-3DEC-4CFA-B624-60AA3F66EC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0471F0EC-3DEC-4CFA-B624-60AA3F66EC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0471F0EC-3DEC-4CFA-B624-60AA3F66EC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0471F0EC-3DEC-4CFA-B624-60AA3F66EC1A} = {26468A34-B6B1-4790-A525-E6317C434597}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07970094-CC3C-4536-B99B-77B0AFF04265}
+	EndGlobalSection
+EndGlobal

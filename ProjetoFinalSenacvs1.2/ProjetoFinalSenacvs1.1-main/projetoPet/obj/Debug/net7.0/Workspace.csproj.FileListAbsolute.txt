@@ -1,0 +1,14 @@
+C:\Users\36127962023.2\Documents\Workspace\obj\Debug\net7.0\Workspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36127962023.2\Documents\Workspace\obj\Debug\net7.0\Workspace.AssemblyInfoInputs.cache
+C:\Users\36127962023.2\Documents\Workspace\obj\Debug\net7.0\Workspace.AssemblyInfo.cs
+C:\Users\36127962023.2\Documents\Workspace\obj\Debug\net7.0\Workspace.csproj.CoreCompileInputs.cache
+C:\Users\36127962023.2\Documents\Workspace\bin\Debug\net7.0\Workspace.exe
+C:\Users\36127962023.2\Documents\Workspace\bin\Debug\net7.0\Workspace.deps.json
+C:\Users\36127962023.2\Documents\Workspace\bin\Debug\net7.0\Workspace.runtimeconfig.json
+C:\Users\36127962023.2\Documents\Workspace\bin\Debug\net7.0\Workspace.dll
+C:\Users\36127962023.2\Documents\Workspace\bin\Debug\net7.0\Workspace.pdb
+C:\Users\36127962023.2\Documents\Workspace\obj\Debug\net7.0\Workspace.dll
+C:\Users\36127962023.2\Documents\Workspace\obj\Debug\net7.0\refint\Workspace.dll
+C:\Users\36127962023.2\Documents\Workspace\obj\Debug\net7.0\Workspace.pdb
+C:\Users\36127962023.2\Documents\Workspace\obj\Debug\net7.0\Workspace.genruntimeconfig.cache
+C:\Users\36127962023.2\Documents\Workspace\obj\Debug\net7.0\ref\Workspace.dll
